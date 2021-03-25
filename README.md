@@ -1,5 +1,6 @@
 # 📺 Netflix-Clone 📺
-:books: Repositório feito para estudos, recriando a interface de menu inicial da Netflix, para aprimorar minha habilidade em HTML. 
+:books: Repositório feito para estudos. 
+:tv: Recriando a interface de menu inicial da Netflix, para aprimorar minha habilidade em HTML. :tv: 
 Segue abaixo mais informações:
 
 
